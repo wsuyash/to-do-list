@@ -13,5 +13,5 @@ module.exports.home = function(req, res) {
             title: "To-Do List",
             task_list: tasks
         });
-    });
+    }).sort({due_date: 1}); // Sort the database documents in ascending order of dates
 }
