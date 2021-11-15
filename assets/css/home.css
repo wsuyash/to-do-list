@@ -166,8 +166,6 @@ input[type='checkbox'] {
     width: 5rem;
     padding: 0.5rem; 
     text-align: center;
-    /* Defaul Color for categories if JS doesn't load for some reason*/
-    background-color: purple;
 }
 
 .task-details-right p {

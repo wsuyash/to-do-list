@@ -80,7 +80,9 @@
                             </div>
                             <div class="task-details-right">
                                 <p class="task-category">
-                                    <%= i.category%>
+                                    <% if(i.category !== "Choose a category") { %>
+                                        <%= i.category %>
+                                    <% } %>
                                 </p>
                             </div>
                         </li>
