@@ -10,7 +10,7 @@
   "keywords": [
     "todo"
   ],
-  "author": "Suyash Wagh",
+  "author": "Suyash",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",

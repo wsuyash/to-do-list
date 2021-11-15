@@ -14,5 +14,5 @@ module.exports.new_task = function(req, res){
         }
     });
 
-    return res.redirect('back');
+    return res.redirect('/');
 }
