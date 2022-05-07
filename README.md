@@ -3,7 +3,7 @@ This is a simple to-do-list app created using Node.js, Express, and MongoDB.
 
 # To run this locally:
 ## Clone this repo:
-git clone https://github.com/wsuyash/habit-tracker.git
+git clone https://github.com/wsuyash/to-do-list.git
 
 ## Into the habit-tracker directory:
 ### Open a terminal and download the dependencies:
